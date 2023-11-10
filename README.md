@@ -11,7 +11,7 @@ Features:
 Here is the Preview of my app:
 
 <div align="center">
-  <img src="https://github.com/JihanHasan1/Tic-Tac-Toe-Game/assets/150295625/c0a89b9c-7912-450e-88d7-781acd68c34d" width="250" alt="image_1">
+  <img src="https://github.com/JihanHasan1/Tic-Tac-Toe-Game/assets/150295625/c0a89b9c-7912-450e-88d7-781acd68c34d" width="260" alt="image_1">
   <img src="https://github.com/JihanHasan1/Tic-Tac-Toe-Game/assets/150295625/33f082fd-0af5-45f4-950f-64ea2a3ca3b9" width="250" alt="image_2">
   <img src="https://github.com/JihanHasan1/Tic-Tac-Toe-Game/assets/150295625/03452fcd-a7a4-472a-b19a-1ecf2dfc2f98" width="250" alt="image_3">
   <img src="https://github.com/JihanHasan1/Tic-Tac-Toe-Game/assets/150295625/b9d3f376-3484-4191-b98b-a034258adb7a" width="250" alt="image_4">
